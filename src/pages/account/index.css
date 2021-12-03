@@ -1,0 +1,48 @@
+
+.container{
+}
+
+.header{
+  background-color: #1296db;
+  padding:50px 0;
+  text-align: center;
+  display:flex;
+  flex-direction: column;
+}
+
+.my_info{
+  width:100%;
+}
+
+.nav{
+  display:flex;
+  color:#ffffff;
+  width:100%;
+  justify-content: space-between;
+  background-color: #ff9900;
+}
+
+.nav_item{
+  padding:10px 25px;
+  display: inline-block;
+}
+
+.active{
+  color:#1296db;
+}
+
+.nav_content{
+  
+}
+
+.content_list{
+  margin:10px 20px;
+}
+
+.show{
+  display:block;
+}
+
+.hidden{
+  display:none;
+}

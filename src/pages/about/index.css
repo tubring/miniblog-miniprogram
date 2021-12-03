@@ -1,0 +1,25 @@
+
+.container{
+  padding:20px;
+}
+
+.title{
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: xx-large;
+  color: rgba(147, 197, 253, 1);
+  border: 1px solid rgba(147, 197, 253, 1);
+  border-radius: 10px;
+}
+
+.slogan{
+  margin: 0 0 0 40px;
+  color: rgba(252, 211, 77,1);
+  font-style: italic;
+  font-size: 30px;
+  border-bottom: 1px solid rgba(252, 211, 77,1);
+}
+
+.body{
+  margin: 40px 0;
+  border-top: 1px solid #ccc;
+}

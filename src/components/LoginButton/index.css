@@ -1,0 +1,23 @@
+
+.header{
+    border-bottom: 1px solid #d9d9d9;
+    text-align: center;
+}
+
+.avatar{
+    width:120px;
+    height:120px;
+}
+
+.text_info{
+    display:block;
+    color:#9d9d9d;
+    margin-top: 10px;
+}
+
+.auth_button{
+    padding:2px;
+    background-color: seagreen;
+    color:white;
+    border-radius: 5px;
+}

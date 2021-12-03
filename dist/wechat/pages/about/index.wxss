@@ -1,0 +1,50 @@
+
+.container{
+  padding:20rpx;
+}
+
+.title{
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: xx-large;
+  color: rgba(147, 197, 253, 1);
+  border: 1rpx solid rgba(147, 197, 253, 1);
+  border-radius: 10rpx;
+}
+
+.slogan{
+  margin: 0 0 0 40rpx;
+  color: rgba(252, 211, 77,1);
+  font-style: italic;
+  font-size: 30rpx;
+  border-bottom: 1rpx solid rgba(252, 211, 77,1);
+}
+
+.body{
+  margin: 40rpx 0;
+  border-top: 1rpx solid #ccc;
+}
+
+.container___11n-G{
+  padding:20rpx;
+}
+
+.title___2IhKl{
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: xx-large;
+  color: rgba(147, 197, 253, 1);
+  border: 1rpx solid rgba(147, 197, 253, 1);
+  border-radius: 10rpx;
+}
+
+.slogan___3AqCk{
+  margin: 0 0 0 40rpx;
+  color: rgba(252, 211, 77,1);
+  font-style: italic;
+  font-size: 30rpx;
+  border-bottom: 1rpx solid rgba(252, 211, 77,1);
+}
+
+.body___3siZR{
+  margin: 40rpx 0;
+  border-top: 1rpx solid #ccc;
+}

@@ -1,0 +1,13 @@
+.container{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.cate_item{
+  padding:20px;
+  width:270px;
+  background-color: #1296db;
+  color:#ffffff;
+  margin: 30px;
+}

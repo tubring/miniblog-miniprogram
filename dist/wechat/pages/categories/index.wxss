@@ -1,0 +1,26 @@
+.container{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.cate_item{
+  padding:20rpx;
+  width:270rpx;
+  background-color: #1296db;
+  color:#ffffff;
+  margin: 30rpx;
+}
+.container___2my_Q{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.cate_item___1ojaf{
+  padding:20rpx;
+  width:270rpx;
+  background-color: #1296db;
+  color:#ffffff;
+  margin: 30rpx;
+}
